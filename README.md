@@ -36,7 +36,7 @@ npm start
   * `http://localhost:3000/books`  list all books
   * `http://localhost:3000/book/{isbn}`  a single book matching the `isbn` parameter
   * `http://localhost:3000/magazines`  list all magazines
-  * `http://localhost:3000/magazine{isbn}`  a single magazine matching the `isbn` parameter
+  * `http://localhost:3000/magazine/{isbn}`  a single magazine matching the `isbn` parameter
   * `http://localhost:3000/authors`  list all authors 
   * `http://localhost:3000/sorted`  list all books and magazines in sorted order
   * `http://localhost:3000/add`  add book or magazine
