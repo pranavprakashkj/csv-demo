@@ -11,7 +11,7 @@
    Find all book by their by their `authors`
    
 3. Print out all books and magazines with all their details sorted by title.
-4.Add a book and a magazine to the data structure of your software and export it to a new CSV file.
+4. Add a book and a magazine to the data structure of your software and export it to a new CSV file.
 
 
 ##### How to run the application?
